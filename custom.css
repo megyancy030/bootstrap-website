@@ -1,0 +1,78 @@
+
+header {
+    background-image: url(LaGlaceBig.jpg) !important;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+
+.bg-dark {
+	background-color: #9cc8c6 !important;
+}
+
+.bg-light {
+	background-color: #Ba9D79 !important;
+}
+
+.bg-medium {
+	background-color: #F6EEE9 !important;
+}
+
+.btn-primary {
+	background-color: #FFd1dc;
+	border-color: #FFd1dc;
+	color: #264653;
+}
+
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-size: 100px;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h2 {
+  font-family: "Dancing Script", cursive;
+  font-size: 60px;
+  color: #264653;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body {
+  font-family: "Ledger", serif;
+  font-size: 20px;
+  color: #264653;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lead {
+    color: #264653;
+    font-size: 20px;
+}
+
+.caption {
+    color: white !important;
+    font-size: 30px !important;
+}
+
+
+
+
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
